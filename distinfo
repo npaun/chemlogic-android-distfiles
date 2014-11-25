@@ -1,0 +1,18 @@
+pl-6.6.6.tar.gz:
+	URL: http://swi-prolog.org/download/stable/src/pl-6.6.6.tar.gz
+	SHA256: 9f80bb274e2f31fd68b0acbe35982c012d5f8311dbe44ec1d8d04351a776996d
+	SIZE: 14838653
+
+
+Angstrom-systemd-image-eglibc-ipk-v2014.06-qemuarm.rootfs.tar.xz:
+	URL:	http://dominion.thruhere.net/angstrom/nightlies/v2014.06/qemuarm/Angstrom-systemd-image-eglibc-ipk-v2014.06-qemuarm.rootfs.tar.xz
+	SHA256:	6e188beb5599d6ebef48273f57975dfb2b045deb12292ec4ece1df5ca928b333
+	SIZE:	11719056
+	TARGET: arm
+
+
+angstrom-2011.03-x86_64-linux-armv5te-linux-gnueabi-toolchain.tar.bz2:
+	URL:  http://web.archive.org/web/20130823131954/http://www.angstrom-distribution.org/toolchains/angstrom-2011.03-x86_64-linux-armv5te-linux-gnueabi-toolchain.tar.bz2 
+	SHA256: 8ace774ad85b240d9c94f72b06e5e19da1ecee38502c0e3fc3fb766f0da7dabe
+	SIZE: 48162045 
+	BUILD: x86_64
